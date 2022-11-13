@@ -271,4 +271,4 @@ Functions allowed: `access`, `chdir`, `close`, `closedir`, `execve`, `exit`, `_e
 
 ## Authors
 
-[EKOMOBONG CLETUS](https://github.com/fynesticon) & [Abdo Osama](https://github.com/)
+[EKOMOBONG CLETUS](https://github.com/fynesticon) & [Abdo Osama](https://github.com/Abdo8Osama)
